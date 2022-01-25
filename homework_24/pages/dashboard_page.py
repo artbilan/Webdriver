@@ -22,6 +22,3 @@ class DashBoardPage(BasePage):
 
     def select_packages(self):
         self._click_on_element(self._packages)
-
-    # def select_search_field_and_send_keys(self):
-    #     self.
